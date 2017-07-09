@@ -1,0 +1,12 @@
+/*
+Theme Name:     Default Child
+Theme URI:      https://github.com/gitlost/default-child
+Description:    Child of Default
+Author:         gitlost
+Author URI:     https://profiles.wordpress.org/gitlost
+Template:       default
+Version:        1.0
+License:        GPLv2
+License URI:    https://www.gnu.org/licenses/gpl-2.0.html
+*/
+@import url( "../default/style.css" );
